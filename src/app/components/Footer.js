@@ -6,7 +6,7 @@ export default function Footer() {
   return (
     <>
       <div
-        className="mx-auto py-6">
+        className="max-w-7xl mx-auto py-6">
         <footer className="text-center lg:text-left bg-gray-100 text-gray-600">
           <div className="flex justify-center items-center lg:justify-between p-6 border-b border-gray-300">
             <div className="mr-12 hidden lg:block">
