@@ -259,9 +259,7 @@ export default function Navbar() {
                                     Home
                                 </Link>
 
-                                <a href="#" className="text-base font-medium text-gray-900 hover:text-gray-700">
-                                    Docs
-                                </a>
+                               
                                 {resources.map((item) => (
                                     <a
                                         key={item.name}
