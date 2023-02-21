@@ -27,7 +27,7 @@ const callsToAction = [
 const resources = [
     {
         name: 'Galery',
-        href: 'galery',
+        href: '#',
         icon: LifebuoyIcon,
     },
     {
@@ -259,7 +259,9 @@ export default function Navbar() {
                                     Home
                                 </Link>
 
-                               
+                                <a href="#" className="text-base font-medium text-gray-900 hover:text-gray-700">
+                                
+                                </a>
                                 {resources.map((item) => (
                                     <a
                                         key={item.name}
