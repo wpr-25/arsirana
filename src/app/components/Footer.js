@@ -119,7 +119,7 @@ export default function Footer() {
           </div>
           <div className="text-center p-6 bg-gray-200">
             <span>Â© 2023 Copyright:</span>
-            <Link class="text-gray-600 font-semibold" href="copyrights">Arsirana</Link>
+            <Link class="text-gray-600 font-semibold" href="/">Arsirana</Link>
           </div>
         </footer>
       </div>
