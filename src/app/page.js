@@ -44,28 +44,65 @@ export default function Home() {
             <div className="w-full lg:w-8/12 lg:pt-8">
               <div className="grid md:grid-cols-4 sm:grid-cols-2 grid-cols-1 lg:gap-4 shadow-lg rounded-md">
                 <div className="p-4 pb-6 flex justify-center flex-col items-center">
-                  <img className="" src="Capture One Catalog3457-Edit.JPG" alt="Alexa featured Img" />
+                  <img className="" src="AFLO ROYAL4080-Edit.JPG" alt="" />
 
 
                 </div>
                 <div className="p-4 pb-6 flex justify-center flex-col items-center">
-                  <img className="" src="Capture One Catalog7559-Edit.JPG" alt="Olivia featured Img" />
+                  <img className="" src="AFLO ROYAL4086.JPG" alt="" />
 
 
                 </div>
                 <div className="p-4 pb-6 flex justify-center flex-col items-center">
-                  <img className="" src="Capture One Catalog9608-Edit.JPG" alt="Liam featued Img" />
+                  <img className="" src="AFLO ROYAL4142.JPG" alt="" />
 
 
                 </div>
                 <div className="p-4 pb-6 flex justify-center flex-col items-center">
-                  <img className="" src="Capture One Catalog9607-Edit.JPG" alt="Elijah featured img" />
+                  <img className="" src="AFLO ROYAL4143-2.JPG" alt="" />
 
                 </div>
               </div>
             </div>
           </div>
         </div>
+
+
+        <section class="overflow-hidden text-gray-700">
+          <div class="container px-5 py-2 mx-auto lg:pt-24 lg:px-32">
+            <div class="flex flex-wrap -m-1 md:-m-2">
+              <div class="flex flex-wrap w-1/2">
+                <div class="w-1/2 p-1 md:p-2">
+                  <img alt="gallery" className="block object-cover object-center w-full h-full rounded-lg"
+                    src="Capture One Catalog3457-Edit.JPG" />
+                </div>
+                <div class="w-1/2 p-1 md:p-2">
+                  <img alt="gallery" className="block object-cover object-center w-full h-full rounded-lg"
+                    src="AFLO ROYAL4142.JPG" />
+                </div>
+                <div class="w-full p-1 md:p-2">
+                  <img alt="gallery" className="block object-cover object-center w-full h-full rounded-lg"
+                    src="AFLO ROYAL4080-Edit.JPG" />
+                </div>
+              </div>
+              <div class="flex flex-wrap w-1/2">
+                <div class="w-full p-1 md:p-2">
+                  <img alt="gallery" className="block object-cover object-center w-full h-full rounded-lg"
+                    src="AFLO ROYAL4143-2.JPG" />
+                </div>
+                <div class="w-1/2 p-1 md:p-2">
+                  <img alt="gallery" className="block object-cover object-center w-full h-full rounded-lg"
+                    src="AFLO ROYAL4086.JPG" />
+                </div>
+                <div class="w-1/2 p-1 md:p-2">
+                  <img alt="gallery" className="block object-cover object-center w-full h-full rounded-lg"
+                    src="Capture One Catalog7559-Edit.JPG" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
 
 
         <section class="overflow-hidden text-gray-700">
@@ -348,6 +385,40 @@ export default function Home() {
         </div>
 
 
+        <section class="overflow-hidden text-gray-700">
+          <div class="container px-5 py-2 mx-auto lg:pt-24 lg:px-32">
+            <div class="flex flex-wrap -m-1 md:-m-2">
+              <div class="flex flex-wrap w-1/2">
+                <div class="w-1/2 p-1 md:p-2">
+                  <img alt="gallery" className="block object-cover object-center w-full h-full rounded-lg"
+                    src="DSC04881-Edit.JPG" />
+                </div>
+                <div class="w-1/2 p-1 md:p-2">
+                  <img alt="gallery" className="block object-cover object-center w-full h-full rounded-lg"
+                    src="DSC04887-Edit.JPG" />
+                </div>
+                <div class="w-full p-1 md:p-2">
+                  <img alt="gallery" className="block object-cover object-center w-full h-full rounded-lg"
+                    src="DSC04905.JPG" />
+                </div>
+              </div>
+              <div class="flex flex-wrap w-1/2">
+                <div class="w-full p-1 md:p-2">
+                  <img alt="gallery" className="block object-cover object-center w-full h-full rounded-lg"
+                    src="DSC04870.JPG" />
+                </div>
+                <div class="w-1/2 p-1 md:p-2">
+                  <img alt="gallery" className="block object-cover object-center w-full h-full rounded-lg"
+                    src="DSC04865.JPG" />
+                </div>
+                <div class="w-1/2 p-1 md:p-2">
+                  <img alt="gallery" className="block object-cover object-center w-full h-full rounded-lg"
+                    src="DSC04866.JPG" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
 
         <div className="p-6 container md:w-2/3 xl:w-auto mx-auto  flex flex-col xl:items-stretch justify-between xl:flex-row">
           <div className="xl:w-1/2 md:mb-14 xl:mb-0 relative h-auto flex items-center justify-center">
@@ -358,7 +429,6 @@ export default function Home() {
             <p className="text-base leading-normal text-gray-600 text-center xl:text-left">Contact to Shoot Your photo.</p>
           </div>
         </div>
-
 
       </div>
     </div>
