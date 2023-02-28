@@ -56,7 +56,7 @@ export default function Navbar() {
                             <img
                                 className="h-10 w-auto sm:h-10"
                                 src="arsirana simbol.jpg"
-                                alt=""
+                                alt="arsirana.jpg"
                             />
                         </Link>
                     </div>
