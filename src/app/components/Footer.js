@@ -13,8 +13,8 @@ export default function Footer() {
               <span>Get connected with us on social networks:</span>
             </div>
             <div className="flex justify-center">
-              
-              
+
+
               <Link href="mailto:arsirana.jpg@gmail.com" className="mr-6 text-gray-600">
                 <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="google"
                   className="w-3.5" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 488 512">
@@ -31,8 +31,8 @@ export default function Footer() {
                   </path>
                 </svg>
               </Link>
-             
-             
+
+
             </div>
           </div>
           <div className="mx-6 py-10 text-center md:text-left">
@@ -56,9 +56,9 @@ export default function Footer() {
               </div>
               <div className="">
                 <h6 className="uppercase font-semibold mb-4 flex justify-center md:justify-start">
-                  
+
                 </h6>
-                
+
               </div>
               <div className="">
                 <h6 className="uppercase font-semibold mb-4 flex justify-center md:justify-start">
@@ -73,19 +73,19 @@ export default function Footer() {
                 <p className="mb-4">
                   <Link href="contact" class="text-gray-600">Contact</Link>
                 </p>
-                
+
               </div>
               <div className="">
                 <h6 className="uppercase font-semibold mb-4 flex justify-center md:justify-start">
                   Contact
                 </h6>
-                
+
                 <p className="flex items-center justify-center md:justify-start mb-4">
-                arsirana.jpg@gmail.com
+                  arsirana.jpg@gmail.com
                 </p>
                 <p class="flex items-center justify-center md:justify-start mb-4"><Link href="https://wa.me/6287884582884">+ 62 8788 4582 884</Link>
                 </p>
-               
+
               </div>
             </div>
           </div>

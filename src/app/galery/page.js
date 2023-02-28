@@ -115,7 +115,7 @@ export default function galery() {
                             <span><img src="https://images.unsplash.com/photo-1625046584009-a6a8370c55f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=966&q=80" /></span>
                             <span><img src="https://images.unsplash.com/photo-1659494306008-ec76c2b6c535?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" /></span>
                         </span>
-                       
+
                     </div>
                 </div>
             </div>

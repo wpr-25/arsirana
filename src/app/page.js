@@ -32,7 +32,7 @@ export default function Home() {
               <p className="font-normal text-base leading-6 text-gray-600 "></p>
             </div>
             <div className="w-full lg:w-8/12 ">
-              <img className="w-full h-full" src="AFLO ROYAL4140.JPG" alt="A group of People" />
+              <img className="w-full h-full" src="Capture One Catalog9608-Edit.JPG" alt="A group of People" />
             </div>
           </div>
 
@@ -44,22 +44,22 @@ export default function Home() {
             <div className="w-full lg:w-8/12 lg:pt-8">
               <div className="grid md:grid-cols-4 sm:grid-cols-2 grid-cols-1 lg:gap-4 shadow-lg rounded-md">
                 <div className="p-4 pb-6 flex justify-center flex-col items-center">
-                  <img className="" src="AFLO ROYAL4080-Edit.JPG" alt="" />
+                  <img className="" src="AFLO ROYAL4080-Edit.JPG" alt="A group of People" />
 
 
                 </div>
                 <div className="p-4 pb-6 flex justify-center flex-col items-center">
-                  <img className="" src="AFLO ROYAL4086.JPG" alt="" />
+                  <img className="" src="AFLO ROYAL4086.JPG" alt="A group of People" />
 
 
                 </div>
                 <div className="p-4 pb-6 flex justify-center flex-col items-center">
-                  <img className="" src="AFLO ROYAL4142.JPG" alt="" />
+                  <img className="" src="Capture One Catalog7559-Edit.JPG" alt="A group of People" />
 
 
                 </div>
                 <div className="p-4 pb-6 flex justify-center flex-col items-center">
-                  <img className="" src="AFLO ROYAL4143-2.JPG" alt="" />
+                  <img className="" src="Capture One Catalog9607-Edit.JPG" alt="A group of People" />
 
                 </div>
               </div>
@@ -78,7 +78,7 @@ export default function Home() {
                 </div>
                 <div class="w-1/2 p-1 md:p-2">
                   <img alt="gallery" className="block object-cover object-center w-full h-full rounded-lg"
-                    src="AFLO ROYAL4142.JPG" />
+                    src="Capture One Catalog9607-Edit.JPG" />
                 </div>
                 <div class="w-full p-1 md:p-2">
                   <img alt="gallery" className="block object-cover object-center w-full h-full rounded-lg"
@@ -88,7 +88,7 @@ export default function Home() {
               <div class="flex flex-wrap w-1/2">
                 <div class="w-full p-1 md:p-2">
                   <img alt="gallery" className="block object-cover object-center w-full h-full rounded-lg"
-                    src="AFLO ROYAL4143-2.JPG" />
+                    src="Capture One Catalog9608-Edit.JPG" />
                 </div>
                 <div class="w-1/2 p-1 md:p-2">
                   <img alt="gallery" className="block object-cover object-center w-full h-full rounded-lg"
@@ -391,15 +391,15 @@ export default function Home() {
               <div class="flex flex-wrap w-1/2">
                 <div class="w-1/2 p-1 md:p-2">
                   <img alt="gallery" className="block object-cover object-center w-full h-full rounded-lg"
-                    src="DSC04881-Edit.JPG" />
+                    src="DSC04887-Edit-Edit.JPG" />
                 </div>
                 <div class="w-1/2 p-1 md:p-2">
                   <img alt="gallery" className="block object-cover object-center w-full h-full rounded-lg"
-                    src="DSC04887-Edit.JPG" />
+                    src="DSC04898-Edit.JPG" />
                 </div>
                 <div class="w-full p-1 md:p-2">
                   <img alt="gallery" className="block object-cover object-center w-full h-full rounded-lg"
-                    src="DSC04905.JPG" />
+                    src="DSC04921-Edit.JPG" />
                 </div>
               </div>
               <div class="flex flex-wrap w-1/2">
